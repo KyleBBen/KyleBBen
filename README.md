@@ -78,7 +78,7 @@ Founder of **BenTech** - building hardware systems for:
 
 ## 📫 Contact
 
-📧 ben1862@pennwest.edu  
+📧 kyle.br.bennett@outlook.com
 🌐 Always open to collaboration in robotics, automation, and embedded systems.
 
 ---
