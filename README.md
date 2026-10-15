@@ -1,7 +1,9 @@
-# Kyle Bennett
+# Kyle B. R. Bennett
 ### Robotics & Embedded Systems Engineer | PLC • C++ • Control Systems • Automation
 
-I build intelligent hardware systems that bridge software, electronics, and fabrication.
+I’m Kyle Brandon Robin Bennett, a Trinidadian mechatronics engineer, inventor, and founder of B3N Industries. I build intelligent hardware systems that bridge software, electronics, and fabrication.
+
+[Personal website & portfolio](https://kylebrbennett.com/) · [B3N Industries](https://b3nindustries.com/) · [LinkedIn](https://www.linkedin.com/in/kyle-b-r-bennett)
 
 🎓 Mechatronics Engineering Technology  
 ⚙️ Focus Areas: Robotics, Embedded Systems, Control Engineering  
@@ -68,7 +70,7 @@ I document systems clearly because good engineering scales.
 
 ## 🌍 Long-Term Vision
 
-Founder of **BenTech** - building hardware systems for:
+Founder of **[B3N Industries](https://b3nindustries.com/)** - building hardware systems for:
 - Financial discipline
 - Robotics education
 - Automation solutions
